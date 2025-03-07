@@ -33,10 +33,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img width="621" alt="image" src="https://github.com/user-attachments/assets/510f4711-ca03-4aae-ad98-0c52d3e70107" />
-  <img width="629" alt="image" src="https://github.com/user-attachments/assets/e630a24e-07a7-4b20-97d7-01dcf67476e7" />
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/e630a24e-07a7-4b20-97d7-01dcf67476e7" />
 </p>
 <p>
-So now, we are going to simulate ticket intake by submitting a ticket from an end user to the support team and see that process. So to start off, we're going to go to the landing page that the end users submit the tickets from. we're going to go to http://localhost/osTicket and submit a ticket as a user.
+  
+**Simulating Ticket Intake**
+
+We will simulate ticket intake by submitting a ticket from an **end user** to the **support team.**  
+
+To start, go to the landing page where end users submit tickets:  
+
+[http://localhost/osTicket](http://localhost/osTicket)  
+
+From there, we will submit a ticket as a user to observe the process.  
 
 </p>
 <br />
