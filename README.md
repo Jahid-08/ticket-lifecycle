@@ -51,11 +51,11 @@ From there, we will submit a ticket as a user to observe the process.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="757" alt="image" src="https://github.com/user-attachments/assets/bc39becc-3a0a-4e8e-973c-bd10d3fa968a" />
+  <img width="720" alt="image" src="https://github.com/user-attachments/assets/7947f24b-d52c-44fd-8dde-616815018831" />
 </p>
+So next, we're going to be logging into our portal as one of the Agents we created named John to view the ticket we created. As you can see in the image above, there is the ticket we created as the user Karen. So as "John" we are going to observe the ticket properties.
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
 <p>
