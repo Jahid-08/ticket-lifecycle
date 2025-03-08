@@ -59,10 +59,10 @@ So next, we're going to be logging into our portal as one of the Agents we creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/5fa03cda-b87c-45aa-87ae-ebbb539acc08" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we are going to set the properties of this ticket. First we are going to update the SLA to Sev-A. Sev- A is the highest priority and it makes sense because no users are able to access the online banking portal. We are also gonna update the help topic to "Report a Problem / Business Critical Outage". Then we are going to assign the ticket to one of the teamms we created which would be "Online Banking". As we are making changes you can also see the updates populating in the Ticket thread. This tracks the changes made to the tickets so that those who have access can also see the changes made.
 </p>
 <br />
 
