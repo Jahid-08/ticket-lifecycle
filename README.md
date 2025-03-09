@@ -54,7 +54,12 @@ From there, we will submit a ticket as a user to observe the process.
 <img width="757" alt="image" src="https://github.com/user-attachments/assets/bc39becc-3a0a-4e8e-973c-bd10d3fa968a" />
   <img width="720" alt="image" src="https://github.com/user-attachments/assets/7947f24b-d52c-44fd-8dde-616815018831" />
 </p>
-So next, we're going to be logging into our portal as one of the Agents we created named John to view the ticket we created. As you can see in the image above, there is the ticket we created as the user Karen. So as "John" we are going to observe the ticket properties.
+## Viewing the Ticket as an Agent  
+
+Next, we will log into the portal as one of the agents we created, **John**, to review the submitted ticket.  
+
+Upon logging in, we can see the ticket created by the user **Karen**. As **John**, we will observe the ticket properties to ensure all details are correctly set.  
+
 <p>
 <br />
 
@@ -62,7 +67,16 @@ So next, we're going to be logging into our portal as one of the Agents we creat
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/5fa03cda-b87c-45aa-87ae-ebbb539acc08" />
 </p>
 <p>
-Now, we are going to set the properties of this ticket. First we are going to update the SLA to Sev-A. Sev- A is the highest priority and it makes sense because no users are able to access the online banking portal. We are also gonna update the help topic to "Report a Problem / Business Critical Outage". Then we are going to assign the ticket to one of the teamms we created which would be "Online Banking". As we are making changes you can also see the updates populating in the Ticket thread. This tracks the changes made to the tickets so that those who have access can also see the changes made.
+## Setting Ticket Properties  
+
+Next, we will update the properties of the ticket.  
+
+1. **Update the SLA** to **Sev-A**, the highest priority. This is appropriate since no users can access the online banking portal.  
+2. **Update the Help Topic** to **"Report a Problem / Business Critical Outage."**  
+3. **Assign the ticket** to the **"Online Banking"** team which we already created.  
+
+As changes are made, updates will populate in the Ticket Thread, tracking modifications for visibility among those with access.  
+
 </p>
 <br />
 
