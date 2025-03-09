@@ -54,7 +54,8 @@ From there, we will submit a ticket as a user to observe the process.
 <img width="757" alt="image" src="https://github.com/user-attachments/assets/bc39becc-3a0a-4e8e-973c-bd10d3fa968a" />
   <img width="720" alt="image" src="https://github.com/user-attachments/assets/7947f24b-d52c-44fd-8dde-616815018831" />
 </p>
-## Viewing the Ticket as an Agent  
+
+ **Viewing the Ticket as an Agent**
 
 Next, we will log into the portal as one of the agents we created, **John**, to review the submitted ticket.  
 
@@ -67,7 +68,8 @@ Upon logging in, we can see the ticket created by the user **Karen**. As **John*
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/5fa03cda-b87c-45aa-87ae-ebbb539acc08" />
 </p>
 <p>
-## Setting Ticket Properties  
+  
+**Setting Ticket Properties**  
 
 Next, we will update the properties of the ticket.  
 
