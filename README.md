@@ -82,7 +82,13 @@ As changes are made, updates will populate in the Ticket Thread, tracking modifi
 <img width="492" alt="image" src="https://github.com/user-attachments/assets/25d75a75-0db3-461d-b5d1-e48f975d231a" />
 </p>
 <p>
-So here, we just simulated working through a ticket as an agent. You can see in the ticket thread everything that was done. This is a high level overview of what the process of working through a ticket is like.
+  
+**Ticket Resolution Overview**
+
+We have now simulated working through a ticket as an agent.  
+
+In the **Ticket Thread**, you can see a record of all actions taken. This provides a high-level overview of the ticket-handling process, demonstrating how tickets are managed from submission to resolution.  
+
 </p>
 <br />
 
