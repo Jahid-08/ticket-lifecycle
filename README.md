@@ -80,7 +80,7 @@ As changes are made, updates will populate in the Ticket Thread, tracking modifi
 
 <p>
 <img width="492" alt="image" src="https://github.com/user-attachments/assets/25d75a75-0db3-461d-b5d1-e48f975d231a" />
-  <img width="476" alt="image" src="https://github.com/user-attachments/assets/b0732eff-4e36-41da-a247-0fdc83ba5043" />
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/b0732eff-4e36-41da-a247-0fdc83ba5043" />
 </p>
 <p>
   
