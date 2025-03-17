@@ -113,6 +113,9 @@ This will demonstrate another hypothetical process from ticket creation to resol
 <p>
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/c26bb586-6253-47fe-a4d9-805d94279e0b" />
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/7028e054-e43d-4955-b243-777e7b514747" />
+  <br/>
+  <img width="264" alt="image" src="https://github.com/user-attachments/assets/4c10de57-9d06-447d-8de9-dbe983cfda02" />
+
 </p>
 <p>
 So, we are going to login as John and view and work the ticket. 
