@@ -79,10 +79,10 @@ As changes are made, updates will populate in the Ticket Thread, tracking modifi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/25d75a75-0db3-461d-b5d1-e48f975d231a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+So here, we just simulated working through a ticket as an agent. You can see in the ticket thread everything that was done. This is a high level overview of what the process of working through a ticket is like.
 </p>
 <br />
 
