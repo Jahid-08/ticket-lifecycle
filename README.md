@@ -104,18 +104,18 @@ In the **Ticket Thread**, you can see a record of all actions taken. This provid
 Next, we will go through another ticket workflow:  
 
 1. **Submit a ticket** as **Ken**.  
-2. **Observe the ticket** as **John**.
-3. **Work the ticket to completion** as **Jane**
+2. **Observe and work the ticket** as **John**.
 
 This will demonstrate another hypothetical process from ticket creation to resolution.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/c26bb586-6253-47fe-a4d9-805d94279e0b" />
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/7028e054-e43d-4955-b243-777e7b514747" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+So, we are going to login as John and view and work the ticket. 
 </p>
 <br />
 
