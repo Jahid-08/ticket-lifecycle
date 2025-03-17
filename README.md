@@ -104,7 +104,8 @@ In the **Ticket Thread**, you can see a record of all actions taken. This provid
 Next, we will go through another ticket workflow:  
 
 1. **Submit a ticket** as **Ken**.  
-2. **Work the ticket to completion** as **Jane**.  
+2. **Observe the ticket** as **John**.
+3. **Work the ticket to completion** as **Jane**
 
 This will demonstrate another hypothetical process from ticket creation to resolution.  
 </p>
