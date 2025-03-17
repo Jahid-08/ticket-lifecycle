@@ -118,7 +118,16 @@ This will demonstrate another hypothetical process from ticket creation to resol
 
 </p>
 <p>
-So, we are going to login as John and view and work the ticket. 
+  
+## Working the Ticket as John  
+
+We will log in as **John** to view and work the ticket.  
+
+### Updates Made:  
+- **SLA updated to Sev-B**  
+- **Ticket assigned to John**  
+
+John will now continue working the ticket to completion.  
 </p>
 <br />
 
